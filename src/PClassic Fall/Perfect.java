@@ -29,7 +29,7 @@ public static boolean isPerfect(int n) {
     int sumOfDivisors = 0;
 
     //Collect Divisors
-    for(int i = 1; i <= n/2; ++i) 
+    for(int i = 1; i <= n; ++i) 
         if(n%i == 0) divisors.add(i);
 
     //Check the sum
