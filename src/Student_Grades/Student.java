@@ -73,6 +73,7 @@ public class Student
 	final public String getName() {return this.sName;}
 
     //add function heading a dumby definition for equals method
+	final public boolean equals(Student obj) {return (obj.sName == this.sName) && (obj.getAverage() == this.getAverage());}
 	//add toString method()
 	final public String toString() {
 		return "Name: " + this.sName + "\tTest1: " + this.grades[0] + "\tTest2: " + this.grades[1];
