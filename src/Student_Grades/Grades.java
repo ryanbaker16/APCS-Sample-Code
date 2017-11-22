@@ -35,7 +35,7 @@ public class Grades
 		//print average for Mike
 		System.out.print("Mike's average grade: " + studentTwo.getAverage() + "\n");
 
-		System.out.print("\nHere are the test student info I used:\n");
+		System.out.print("\nHere is the test student info I used:\n");
 		System.out.print(studentOne.toString() + "\n");
 		System.out.print(studentTwo.toString());
 	}
