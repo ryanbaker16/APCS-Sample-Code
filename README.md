@@ -6,5 +6,5 @@ This repository is only for debugging purposes. Plagiarism is strongly prohibitt
 
 
 ## Little AD
-[LSHeader]("https://github.com/LBYPatrick/LSheader")  is a simple tool for writing header/format file name that meets Mr. Patel's demands. It's cross-platform and fast (Written in C++).
+[LSHeader](https://github.com/LBYPatrick/LSheader)  is a simple tool for writing header/format file name that meets Mr. Patel's demands. It's cross-platform and fast (Written in C++).
 
