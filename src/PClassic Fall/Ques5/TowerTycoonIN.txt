@@ -1,0 +1,9 @@
+3
+sam molly jim
+sam tim molly
+jim rex
+4
+candace rob john
+john tom
+rob tom
+candace tom jacob
